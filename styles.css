@@ -3,6 +3,7 @@
         border: 1px solid #ccc;
         border-radius: 5px;
         padding: 0.5rem;
+		background-color: #ddd; /* Add this line */
     }
     td{
         border: 1px solid #ccc;
